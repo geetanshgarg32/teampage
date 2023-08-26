@@ -1,0 +1,45 @@
+.team-title h1{
+    text-align: center;
+    font-weight: 800;
+    font-family: poppins;
+    font-size: 50px;
+    background: linear-gradient(90.23deg, #234EB0 2.75%, #B656E2 104.73%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 0.02em;
+}
+.team-title p{
+    color:#5a97cd;
+    text-align: center;
+    font-family: poppins;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.col{
+    margin: 20px;
+}
+
+.mentor-img{
+    width: 12vw;
+    height: 12vw;
+}
+
+.msg-btn{
+    border-radius: 15px;
+    background: linear-gradient(90.23deg, #234EB0 2.75%, #B656E2 104.73%);
+    z-index: -10;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: 2px solid #B656E2; 
+}
+
+.msg-btn:hover{
+
+    border-radius: 15px;
+    background: linear-gradient(90.23deg, #234EB0 2.75%, #B656E2 104.73%);
+    z-index: -10;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: 2px solid #B656E2; 
+}
